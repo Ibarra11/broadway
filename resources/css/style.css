@@ -23,7 +23,7 @@ h3{
 	color: white;
 }
 
-#header h1{
+#home h1{
 	font-size: 70px;
 }
 
@@ -47,5 +47,8 @@ ul li{
 }
 
 a:link{
+	color: white;
+}
+a:visited{
 	color: white;
 }
